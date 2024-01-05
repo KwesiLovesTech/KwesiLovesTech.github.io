@@ -1,2 +1,1 @@
-## MY first blog post : 
-# How I hosted my static website with S3 & CloudFront and set-up an SSL certificate #
+## Hosting my static website with S3 & CloudFront and set-up an SSL certificate 
