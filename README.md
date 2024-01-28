@@ -32,6 +32,4 @@ Never miss an update! Subscribe to our newsletter to receive the latest blog pos
 
 ## Enjoy the Journey
 
-Thank you for joining Kwesi's Cloud Voyage. Buckle up, enjoy the ride, and let's explore the AWS cosmos together!
-
 Happy reading! 🌐✨
